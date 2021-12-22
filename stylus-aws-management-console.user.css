@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           Slideshare for Fullscreen
+@namespace      github.com/Sugi275/stylus-slideshare-fullscreen
+@version        1.0.0
+@description    Slideshare for Fullscreen
+@author         sugimount
+@homepageURL    https://github.com/Sugi275/stylus-slideshare-fullscreen
+@license        MIT License
+==/UserStyle== */
+
+.slide_image
+{
+    max-width: 2000px !important;
+    max-height: 2000px !important;
+}
